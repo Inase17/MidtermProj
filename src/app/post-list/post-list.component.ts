@@ -28,6 +28,13 @@ export class PostListComponent implements OnInit {
       'Bangus (Chanos chanos) is the national fish of the Philippines, called milkfish in English. Seen as an adaptable, tough, and sturdy fish, the bangus also swims in the Indian Ocean and across the Pacific, living in tropical offshore marine waters around islands and along continental shelves.',
       'Isetta',
       new Date
+    ),
+    new Post(
+      'Bangus',
+      'https://d1uz88p17r663j.cloudfront.net/resized/3d431860aa9bea91b7d693fd05ce6f46_Grilled_Boneless_Bangus_Main_944_531.jpg',
+      'Bangus (Chanos chanos) is the national fish of the Philippines, called milkfish in English. Seen as an adaptable, tough, and sturdy fish, the bangus also swims in the Indian Ocean and across the Pacific, living in tropical offshore marine waters around islands and along continental shelves.',
+      'Isetta',
+      new Date
     )
   ];
   constructor() { }
